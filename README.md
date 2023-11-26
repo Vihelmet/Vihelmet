@@ -1,6 +1,6 @@
 ### Hi there!! This is Victoria 👋
 
-- 🎓 Recent data science graduate from The Bridge - Digital Talent Accelerator.
+- 🎓 Recent Data Science graduate from The Bridge - Digital Talent Accelerator.
 - 📚 Translator, Interpreter, Proofreader and Subtitler for 20+ years.
 - 👩‍🏫 College Professor.
 - 📁 Project Manager.
