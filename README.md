@@ -1,3 +1,5 @@
+![Imagen de portada](images/Portada.jpg)
+
 ### Hi there!! This is Victoria 👋
 
 - 🎓 Recent Data Science graduate from The Bridge - Digital Talent Accelerator.
